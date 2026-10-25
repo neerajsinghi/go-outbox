@@ -1,0 +1,20 @@
+# Binaries and build output
+*.exe
+*.test
+*.out
+/bin/
+/dist/
+
+# SQLite files created by examples and tests
+*.db
+*.db-shm
+*.db-wal
+
+# Coverage
+coverage.*
+*.coverprofile
+
+# Editors / OS
+.idea/
+.vscode/
+.DS_Store
